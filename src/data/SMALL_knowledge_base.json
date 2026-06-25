@@ -1,0 +1,3364 @@
+{
+  "articles": {
+    "Robotics": {
+      "title": "Robotics",
+      "depth": 0,
+      "parent": null,
+      "text_length": 32881,
+      "categories": [
+        "All Wikipedia articles needing words, phrases or quotes attributed",
+        "All Wikipedia articles written in American English",
+        "All pages needing factual verification",
+        "Articles with short description",
+        "CS1: long volume value",
+        "CS1 maint: multiple names: authors list",
+        "Pages using Sister project links with hidden wikidata",
+        "Robotics",
+        "Short description is different from Wikidata",
+        "Use American English from December 2025",
+        "Use dmy dates from April 2023",
+        "Webarchive template wayback links",
+        "Wikipedia articles needing clarification from March 2026",
+        "Wikipedia articles needing factual verification from February 2026",
+        "Wikipedia articles needing words, phrases or quotes attributed from February 2026",
+        "Wikipedia indefinitely move-protected pages"
+      ],
+      "year_mentions": [
+        1952,
+        1974,
+        1990,
+        1997,
+        2003,
+        2006,
+        2009,
+        2010,
+        2011,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2030,
+        2045
+      ],
+      "relationships": 100,
+      "links_found": 500,
+      "processed": true
+    },
+    "1X Technologies": {
+      "title": "1X Technologies",
+      "depth": 1,
+      "parent": "Robotics",
+      "text_length": 2798,
+      "categories": [
+        "Articles with short description",
+        "Artificial intelligence companies",
+        "Companies based in California",
+        "Humanoid robots",
+        "Robotics companies",
+        "Short description is different from Wikidata"
+      ],
+      "year_mentions": [
+        2014,
+        2018,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "relationships": 20,
+      "links_found": 248,
+      "processed": true
+    },
+    "ABB": {
+      "title": "ABB",
+      "depth": 2,
+      "parent": "1X Technologies",
+      "text_length": 30059,
+      "categories": [
+        "ABB",
+        "All articles containing potentially dated statements",
+        "All articles with unsourced statements",
+        "All articles with vague or ambiguous time",
+        "Articles containing potentially dated statements from December 2024",
+        "Articles with short description",
+        "Articles with unsourced statements from December 2023",
+        "Articles with unsourced statements from March 2026",
+        "CS1 German-language sources (de)",
+        "CS1 maint: deprecated archival service",
+        "Commons category link from Wikidata",
+        "Companies in the OMX Nordic 40",
+        "Companies in the OMX Stockholm 30",
+        "Companies in the Swiss Market Index",
+        "Companies listed on Nasdaq Stockholm",
+        "Companies listed on the SIX Swiss Exchange",
+        "Companies related to the Wallenberg family",
+        "Dual-listed companies",
+        "Electric motor manufacturers",
+        "Electric transformer manufacturers",
+        "Electric vehicle industry",
+        "Electrical engineering companies",
+        "Electrical equipment manufacturers",
+        "Engineering companies of Sweden",
+        "Engineering companies of Switzerland",
+        "Engineering consulting firms of Sweden",
+        "Industrial machine manufacturers",
+        "Industrial robotics companies",
+        "International engineering consulting firms",
+        "Locomotive manufacturers of Switzerland",
+        "Manufacturers of industrial automation",
+        "Manufacturing companies established in 1988",
+        "Multinational companies headquartered in Switzerland",
+        "Robotics in Sweden",
+        "Short description is different from Wikidata",
+        "Swedish brands",
+        "Swiss brands",
+        "Swiss companies established in 1988",
+        "Use dmy dates from April 2019",
+        "Vague or ambiguous time from December 2023"
+      ],
+      "year_mentions": [
+        1916,
+        1937,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "relationships": 97,
+      "links_found": 0,
+      "processed": true
+    },
+    "ASIMO": {
+      "title": "ASIMO",
+      "depth": 2,
+      "parent": "1X Technologies",
+      "text_length": 9044,
+      "categories": [
+        "2000 robots",
+        "All articles with dead external links",
+        "Androids",
+        "Animatronic robots",
+        "Articles containing video clips",
+        "Articles with Japanese-language sources (ja)",
+        "Articles with dead external links from July 2023",
+        "Articles with permanently dead external links",
+        "Articles with short description",
+        "Bipedal humanoid robots",
+        "CS1 Japanese-language sources (ja)",
+        "CS1 maint: numeric names: authors list",
+        "CS1 uses Japanese-language script (ja)",
+        "Gesture recognition",
+        "Japanese inventions",
+        "Pages using Sister project links with wikidata namespace mismatch",
+        "Robotics at Honda",
+        "Short description matches Wikidata",
+        "Use dmy dates from January 2021",
+        "Webarchive template wayback links"
+      ],
+      "year_mentions": [
+        1986,
+        1993,
+        1997,
+        1999,
+        2000,
+        2002,
+        2003,
+        2004,
+        2005,
+        2007,
+        2008,
+        2010,
+        2011,
+        2012,
+        2014,
+        2015,
+        2017,
+        2018,
+        2022
+      ],
+      "relationships": 60,
+      "links_found": 0,
+      "processed": true
+    },
+    "Adaptable robotics": {
+      "title": "Adaptable robotics",
+      "depth": 2,
+      "parent": "1X Technologies",
+      "text_length": 10424,
+      "categories": [
+        "Adaptable robotics",
+        "Articles with short description",
+        "Robot kits",
+        "Short description with empty Wikidata description"
+      ],
+      "year_mentions": [
+        1989,
+        1994,
+        1997,
+        2001
+      ],
+      "relationships": 72,
+      "links_found": 0,
+      "processed": true
+    },
+    "Aerobot": {
+      "title": "Aerobot",
+      "depth": 2,
+      "parent": "1X Technologies",
+      "text_length": 19595,
+      "categories": [
+        "Aerobots",
+        "All articles needing additional references",
+        "Articles needing additional references from May 2018",
+        "Articles with short description",
+        "Short description is different from Wikidata",
+        "Source attribution",
+        "Webarchive template wayback links"
+      ],
+      "year_mentions": [
+        1967,
+        1984,
+        1985,
+        1992,
+        1993,
+        1994,
+        1996,
+        1997,
+        2002,
+        2007,
+        2020,
+        2021,
+        2027
+      ],
+      "relationships": 100,
+      "links_found": 0,
+      "processed": true
+    },
+    "AgiBot": {
+      "title": "AgiBot",
+      "depth": 2,
+      "parent": "1X Technologies",
+      "text_length": 6710,
+      "categories": [
+        "Articles containing Chinese-language text",
+        "Articles containing simplified Chinese-language text",
+        "Articles with short description",
+        "CS1 Chinese-language sources (zh)",
+        "Chinese companies established in 2023",
+        "Commons category link from Wikidata",
+        "Electronics companies established in 2023",
+        "Engineering companies of China",
+        "Manufacturing companies based in Shanghai",
+        "Robotics companies of China",
+        "Short description matches Wikidata",
+        "Use dmy dates from January 2025"
+      ],
+      "year_mentions": [
+        2019,
+        2020,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "relationships": 54,
+      "links_found": 0,
+      "processed": true
+    }
+  },
+  "relationships": [
+    {
+      "source": "robotics",
+      "relation": "combines",
+      "target": "power source, mechanical construction, control system, and software",
+      "article": "Robotics"
+    },
+    {
+      "source": "robotics",
+      "relation": "is",
+      "target": "interdisciplinary study and practice",
+      "article": "Robotics"
+    },
+    {
+      "source": "robots",
+      "relation": "assist humans in",
+      "target": "agriculture, construction, manufacturing, medicine, and space exploration",
+      "article": "Robotics"
+    },
+    {
+      "source": "robots",
+      "relation": "impact humans by",
+      "target": "displacing workers",
+      "article": "Robotics"
+    },
+    {
+      "source": "robot displacement",
+      "relation": "leads to proposed solution",
+      "target": "basic income",
+      "article": "Robotics"
+    },
+    {
+      "source": "control system",
+      "relation": "utilizes",
+      "target": "electrical circuits",
+      "article": "Robotics"
+    },
+    {
+      "source": "electrical circuits",
+      "relation": "uses components",
+      "target": "diodes and transistors",
+      "article": "Robotics"
+    },
+    {
+      "source": "robotic programs",
+      "relation": "can be run by",
+      "target": "artificial intelligence",
+      "article": "Robotics"
+    },
+    {
+      "source": "robotic programs",
+      "relation": "can be run by",
+      "target": "remote control",
+      "article": "Robotics"
+    },
+    {
+      "source": "AI programming",
+      "relation": "is important part of",
+      "target": "robotic navigation",
+      "article": "Robotics"
+    },
+    {
+      "source": "AI programming",
+      "relation": "is important part of",
+      "target": "human-robot interaction",
+      "article": "Robotics"
+    },
+    {
+      "source": "lead-acid batteries",
+      "relation": "used as",
+      "target": "robot power source",
+      "article": "Robotics"
+    },
+    {
+      "source": "silver-cadmium batteries",
+      "relation": "are smaller and more expensive than",
+      "target": "lead-acid batteries",
+      "article": "Robotics"
+    },
+    {
+      "source": "internal combustion engine",
+      "relation": "can be used as",
+      "target": "robot power source",
+      "article": "Robotics"
+    },
+    {
+      "source": "tether",
+      "relation": "connects robot to",
+      "target": "power supply",
+      "article": "Robotics"
+    },
+    {
+      "source": "actuators",
+      "relation": "are the muscles of",
+      "target": "robot",
+      "article": "Robotics"
+    },
+    {
+      "source": "actuators",
+      "relation": "convert",
+      "target": "stored energy into movement",
+      "article": "Robotics"
+    },
+    {
+      "source": "electric motors",
+      "relation": "are most popular type of",
+      "target": "actuators",
+      "article": "Robotics"
+    },
+    {
+      "source": "robotics",
+      "relation": "has areas of research including",
+      "target": "robot kinematics and quantum robotics",
+      "article": "Robotics"
+    },
+    {
+      "source": "mechanical construction",
+      "relation": "includes locomotive elements such as",
+      "target": "wheels and caterpillar tracks",
+      "article": "Robotics"
+    },
+    {
+      "source": "factory robots",
+      "relation": "controlled by",
+      "target": "electric motors",
+      "article": "Robotics"
+    },
+    {
+      "source": "portable robots",
+      "relation": "use",
+      "target": "brushed and brushless DC motors",
+      "article": "Robotics"
+    },
+    {
+      "source": "industrial robots",
+      "relation": "use",
+      "target": "AC motors",
+      "article": "Robotics"
+    },
+    {
+      "source": "linear actuators",
+      "relation": "powered by",
+      "target": "oil or compressed air",
+      "article": "Robotics"
+    },
+    {
+      "source": "linear actuators",
+      "relation": "use mechanism",
+      "target": "rack and pinion",
+      "article": "Robotics"
+    },
+    {
+      "source": "piezoelectric motors",
+      "relation": "alternative to",
+      "target": "DC motors",
+      "article": "Robotics"
+    },
+    {
+      "source": "ultrasonic motors",
+      "relation": "subtype of",
+      "target": "piezoelectric motors",
+      "article": "Robotics"
+    },
+    {
+      "source": "piezoceramic elements",
+      "relation": "enable",
+      "target": "linear or rotary motion",
+      "article": "Robotics"
+    },
+    {
+      "source": "series elastic actuation",
+      "relation": "introduces",
+      "target": "intentional elasticity between motor and load",
+      "article": "Robotics"
+    },
+    {
+      "source": "series elastic actuation",
+      "relation": "improves",
+      "target": "safety during robot interactions",
+      "article": "Robotics"
+    },
+    {
+      "source": "series elastic actuation",
+      "relation": "employed in",
+      "target": "walking humanoid robots",
+      "article": "Robotics"
+    },
+    {
+      "source": "series elastic actuation",
+      "relation": "employed in",
+      "target": "advanced manufacturing robots",
+      "article": "Robotics"
+    },
+    {
+      "source": "series elastic actuation controller",
+      "relation": "designed within",
+      "target": "passivity framework",
+      "article": "Robotics"
+    },
+    {
+      "source": "pneumatic artificial muscles",
+      "relation": "used in",
+      "target": "robot applications",
+      "article": "Robotics"
+    },
+    {
+      "source": "shape memory alloy",
+      "relation": "used in",
+      "target": "small robots",
+      "article": "Robotics"
+    },
+    {
+      "source": "electroactive polymers",
+      "relation": "used in",
+      "target": "facial muscles and arms of humanoid robots",
+      "article": "Robotics"
+    },
+    {
+      "source": "electroactive polymers",
+      "relation": "enable robots to",
+      "target": "float, fly, swim or walk",
+      "article": "Robotics"
+    },
+    {
+      "source": "carbon nanotubes",
+      "relation": "promising technology for",
+      "target": "artificial muscles",
+      "article": "Robotics"
+    },
+    {
+      "source": "carbon nanotube wire",
+      "relation": "could replace",
+      "target": "human biceps",
+      "article": "Robotics"
+    },
+    {
+      "source": "linear actuators",
+      "relation": "driven by",
+      "target": "motor and leadscrew",
+      "article": "Robotics"
+    },
+    {
+      "source": "Ballbot",
+      "relation": "developed by",
+      "target": "Carnegie Mellon University",
+      "article": "Robotics"
+    },
+    {
+      "source": "two-wheeled balancing robot",
+      "relation": "uses",
+      "target": "gyroscope",
+      "article": "Robotics"
+    },
+    {
+      "source": "two-wheeled balancing robot",
+      "relation": "based on",
+      "target": "inverted pendulum dynamics",
+      "article": "Robotics"
+    },
+    {
+      "source": "NASA's Robonaut",
+      "relation": "mounted to",
+      "target": "Segway",
+      "article": "Robotics"
+    },
+    {
+      "source": "tracked wheels",
+      "relation": "commonly used for",
+      "target": "outdoor off-road robots",
+      "article": "Robotics"
+    },
+    {
+      "source": "zero moment point (ZMP)",
+      "relation": "is algorithm used by",
+      "target": "Honda's ASIMO",
+      "article": "Robotics"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "requires",
+      "target": "flat surface",
+      "article": "Robotics"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "uses",
+      "target": "dynamic balancing",
+      "article": "Robotics"
+    },
+    {
+      "source": "Marc Raibert",
+      "relation": "built robots at",
+      "target": "MIT Leg Laboratory",
+      "article": "Robotics"
+    },
+    {
+      "source": "MIT Leg Laboratory robots",
+      "relation": "demonstrated",
+      "target": "dynamic walking",
+      "article": "Robotics"
+    },
+    {
+      "source": "one-legged robot",
+      "relation": "maintains balance by",
+      "target": "hopping",
+      "article": "Robotics"
+    },
+    {
+      "source": "one-legged robot",
+      "relation": "movement similar to",
+      "target": "pogo stick",
+      "article": "Robotics"
+    },
+    {
+      "source": "bipedal robot",
+      "relation": "demonstrated capability of",
+      "target": "running and somersaults",
+      "article": "Robotics"
+    },
+    {
+      "source": "quadruped robot",
+      "relation": "demonstrated gaits including",
+      "target": "trot, run, pace, and bound",
+      "article": "Robotics"
+    },
+    {
+      "source": "dynamic balancing algorithm",
+      "relation": "monitors",
+      "target": "robot motion",
+      "article": "Robotics"
+    },
+    {
+      "source": "walking robots",
+      "relation": "suitable for",
+      "target": "uneven terrain",
+      "article": "Robotics"
+    },
+    {
+      "source": "six-wheeled robots",
+      "relation": "provide better",
+      "target": "traction in outdoor terrain",
+      "article": "Robotics"
+    },
+    {
+      "source": "spherical robots",
+      "relation": "move by",
+      "target": "spinning a weight or rotating outer shells",
+      "article": "Robotics"
+    },
+    {
+      "source": "skating robot",
+      "relation": "is type of",
+      "target": "multimodal walking and skating device",
+      "article": "Robotics"
+    },
+    {
+      "source": "ZMP algorithm",
+      "relation": "balances",
+      "target": "inertial forces and floor reaction force",
+      "article": "Robotics"
+    },
+    {
+      "source": "passive dynamics",
+      "relation": "used to power",
+      "target": "walking robots",
+      "article": "Robotics"
+    },
+    {
+      "source": "passive dynamics",
+      "relation": "increases efficiency compared to",
+      "target": "ZMP",
+      "article": "Robotics"
+    },
+    {
+      "source": "autopilot",
+      "relation": "can control",
+      "target": "passenger airliner",
+      "article": "Robotics"
+    },
+    {
+      "source": "unmanned aerial vehicles",
+      "relation": "used for",
+      "target": "military operations",
+      "article": "Robotics"
+    },
+    {
+      "source": "biomimetic flying robots",
+      "relation": "inspired by",
+      "target": "flying mammals, birds, and insects",
+      "article": "Robotics"
+    },
+    {
+      "source": "flapping-wing design",
+      "relation": "provides increased",
+      "target": "maneuverability",
+      "article": "Robotics"
+    },
+    {
+      "source": "flapping-wing design",
+      "relation": "reduces",
+      "target": "energy consumption",
+      "article": "Robotics"
+    },
+    {
+      "source": "mammal-inspired BFRs",
+      "relation": "inspired by",
+      "target": "bats",
+      "article": "Robotics"
+    },
+    {
+      "source": "mammal-inspired BFRs",
+      "relation": "capable of",
+      "target": "multimodal locomotion",
+      "article": "Robotics"
+    },
+    {
+      "source": "bird-inspired BFRs",
+      "relation": "inspired by",
+      "target": "raptors and gulls",
+      "article": "Robotics"
+    },
+    {
+      "source": "bird-inspired BFR wings",
+      "relation": "allow",
+      "target": "in-plane deformation",
+      "article": "Robotics"
+    },
+    {
+      "source": "insect-inspired BFRs",
+      "relation": "inspired by",
+      "target": "beetles and dragonflies",
+      "article": "Robotics"
+    },
+    {
+      "source": "wall-climbing robot",
+      "relation": "mimics",
+      "target": "gecko toe-pad adhesion",
+      "article": "Robotics"
+    },
+    {
+      "source": "Speedy Freelander",
+      "relation": "example of",
+      "target": "gecko-inspired climbing robot",
+      "article": "Robotics"
+    },
+    {
+      "source": "snake robot",
+      "relation": "used for",
+      "target": "navigation in confined spaces",
+      "article": "Robotics"
+    },
+    {
+      "source": "snake robot",
+      "relation": "capable of",
+      "target": "amphibious navigation",
+      "article": "Robotics"
+    },
+    {
+      "source": "Delft University",
+      "relation": "developed",
+      "target": "Flame robot",
+      "article": "Robotics"
+    },
+    {
+      "source": "lighter-than-air robots",
+      "relation": "guided by",
+      "target": "sonar",
+      "article": "Robotics"
+    },
+    {
+      "source": "fish locomotion",
+      "relation": "achieves propulsive efficiency of",
+      "target": "greater than 90%",
+      "article": "Robotics"
+    },
+    {
+      "source": "Epson micro helicopter robot",
+      "relation": "is a type of",
+      "target": "flying robot",
+      "article": "Robotics"
+    },
+    {
+      "source": "robotic fish",
+      "relation": "models",
+      "target": "fish locomotion",
+      "article": "Robotics"
+    },
+    {
+      "source": "aquatic robot",
+      "relation": "emulates",
+      "target": "penguin flipper propulsion",
+      "article": "Robotics"
+    },
+    {
+      "source": "aquatic robot",
+      "relation": "emulates",
+      "target": "manta ray locomotion",
+      "article": "Robotics"
+    },
+    {
+      "source": "aquatic robot",
+      "relation": "emulates",
+      "target": "jellyfish locomotion",
+      "article": "Robotics"
+    },
+    {
+      "source": "Vaimos",
+      "relation": "is a type of",
+      "target": "sailboat robot",
+      "article": "Robotics"
+    },
+    {
+      "source": "sailboat robot",
+      "relation": "competes in",
+      "target": "Microtransat Challenge",
+      "article": "Robotics"
+    },
+    {
+      "source": "sailboat robot",
+      "relation": "competes in",
+      "target": "World Robotic Sailing Championship",
+      "article": "Robotics"
+    },
+    {
+      "source": "robotic manipulation",
+      "relation": "defined by",
+      "target": "Matthew T. Mason",
+      "article": "Robotics"
+    },
+    {
+      "source": "robot arm",
+      "relation": "is referred to as",
+      "target": "manipulator",
+      "article": "Robotics"
+    },
+    {
+      "source": "manipulator",
+      "relation": "has functional end called",
+      "target": "end effector",
+      "article": "Robotics"
+    },
+    {
+      "source": "humanoid hand",
+      "relation": "is a type of",
+      "target": "fixed manipulator",
+      "article": "Robotics"
+    },
+    {
+      "source": "humanoid hand",
+      "relation": "can have up to",
+      "target": "20 degrees of freedom",
+      "article": "Robotics"
+    },
+    {
+      "source": "Shadow Hand",
+      "relation": "is a type of",
+      "target": "humanoid robotic hand",
+      "article": "Robotics"
+    },
+    {
+      "source": "Robonaut hand",
+      "relation": "is a type of",
+      "target": "humanoid robotic hand",
+      "article": "Robotics"
+    },
+    {
+      "source": "gripper",
+      "relation": "is common type of",
+      "target": "end effector",
+      "article": "Robotics"
+    },
+    {
+      "source": "suction end effector",
+      "relation": "powered by",
+      "target": "vacuum generator",
+      "article": "Robotics"
+    },
+    {
+      "source": "pick-and-place robot",
+      "relation": "uses",
+      "target": "vacuum end effector",
+      "article": "Robotics"
+    },
+    {
+      "source": "robot control system",
+      "relation": "consists of phases",
+      "target": "perception, processing, and action",
+      "article": "Robotics"
+    },
+    {
+      "source": "sensors",
+      "relation": "provide input to",
+      "target": "robot control system",
+      "article": "Robotics"
+    },
+    {
+      "source": "robot control system",
+      "relation": "sends signals to",
+      "target": "actuators",
+      "article": "Robotics"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "is founded by",
+      "target": "Bernt Øivind Børnich",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "develops",
+      "target": "general-purpose humanoid robots",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "headquartered in",
+      "target": "Palo Alto, California",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "formerly named",
+      "target": "Halodi Robotics",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "EVE",
+      "relation": "is a",
+      "target": "wheeled humanoid robot",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "EVE",
+      "relation": "designed for",
+      "target": "logistics, security, and healthcare",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "EVE",
+      "relation": "serves as platform for testing",
+      "target": "actuation, perception, and manipulation technologies",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "NEO",
+      "relation": "is a",
+      "target": "bipedal humanoid robot",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "NEO",
+      "relation": "designed for",
+      "target": "home environments",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "NEO",
+      "relation": "uses",
+      "target": "teleoperation via virtual reality headset",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "received funding from",
+      "target": "OpenAI Startup Fund",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "received Series B funding from",
+      "target": "EQT Ventures",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "received funding from",
+      "target": "Samsung NEXT",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "NEO",
+      "relation": "uses training data from",
+      "target": "early adopters",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "NEO",
+      "relation": "operates in",
+      "target": "unstructured home environments",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "initially focused on",
+      "target": "safe actuators and full-body control systems",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "NEO Gamma",
+      "relation": "is updated version of",
+      "target": "NEO Beta",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "1X Technologies",
+      "relation": "manufactures in",
+      "target": "Hayward and Moss, Norway",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "NEO",
+      "relation": "scheduled for release in",
+      "target": "2026",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "NEO",
+      "relation": "offered as",
+      "target": "subscription service",
+      "article": "1X Technologies"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "formed from merger of",
+      "target": "ASEA and Brown, Boveri & Cie",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "operates in",
+      "target": "industrial automation",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "headquartered in",
+      "target": "Zurich, Switzerland",
+      "article": "ABB"
+    },
+    {
+      "source": "ASEA",
+      "relation": "first company to introduce",
+      "target": "microprocessor into an industrial robot",
+      "article": "ABB"
+    },
+    {
+      "source": "ASEA",
+      "relation": "helped develop",
+      "target": "Azipod electric propulsion system",
+      "article": "ABB"
+    },
+    {
+      "source": "miniature circuit breaker",
+      "relation": "invented by",
+      "target": "Hugo Stotz",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "has business area",
+      "target": "Robotics & Discrete Automation",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "sold Power Grids division to",
+      "target": "Hitachi",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "acquired",
+      "target": "Baldor Electric",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "acquired",
+      "target": "GE Industrial Solutions",
+      "article": "ABB"
+    },
+    {
+      "source": "ASEA",
+      "relation": "founded in",
+      "target": "Västerås, Sweden",
+      "article": "ABB"
+    },
+    {
+      "source": "Brown, Boveri & Cie",
+      "relation": "founded by",
+      "target": "Charles Eugene Lancelot Brown and Walter Boveri",
+      "article": "ABB"
+    },
+    {
+      "source": "Brown, Boveri & Cie",
+      "relation": "produced",
+      "target": "AC and DC motors, generators, steam turbines and transformers",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "focused growth strategy on",
+      "target": "robotics and industrial automation sectors",
+      "article": "ABB"
+    },
+    {
+      "source": "Azipod",
+      "relation": "improves",
+      "target": "ship manoeuvrability",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "has business area",
+      "target": "Process Automation",
+      "article": "ABB"
+    },
+    {
+      "source": "ASEA",
+      "relation": "founded by",
+      "target": "Ludvig Fredholm",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Group",
+      "relation": "acquired",
+      "target": "Thomas & Betts",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "formed by merger of",
+      "target": "ASEA and BBC Brown Boveri",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired robotics business of",
+      "target": "Cincinnati Milacron",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "expanded automated operations in",
+      "target": "American automotive industry",
+      "article": "ABB"
+    },
+    {
+      "source": "IRB 6000",
+      "relation": "introduced by",
+      "target": "ABB",
+      "article": "ABB"
+    },
+    {
+      "source": "IRB 6000",
+      "relation": "designed for",
+      "target": "spot-welding applications",
+      "article": "ABB"
+    },
+    {
+      "source": "IRB 6000",
+      "relation": "is a",
+      "target": "modular robot",
+      "article": "ABB"
+    },
+    {
+      "source": "IRB 6000",
+      "relation": "can be reconfigured to perform",
+      "target": "variety of specific tasks",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "core businesses include",
+      "target": "industrial automation and robotics",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Westinghouse Electric transmission and distribution assets",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Combustion Engineering",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Strömberg",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "BREL",
+      "article": "ABB"
+    },
+    {
+      "source": "BREL",
+      "relation": "subsumed into",
+      "target": "ABB Transportation",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "agreed to merge rail engineering unit with",
+      "target": "Daimler-Benz",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired plant of",
+      "target": "Commonwealth Engineering Dandenong Melbourne",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "continued manufacturing",
+      "target": "B-class Melbourne tram",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "expanded into",
+      "target": "Central and Eastern Europe",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "expanded into",
+      "target": "Asia-Pacific region",
+      "article": "ABB"
+    },
+    {
+      "source": "Cincinnati Milacron acquisition",
+      "relation": "expanded",
+      "target": "ABB automated spot-welding operations",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "headquartered in",
+      "target": "Zurich Switzerland and Västerås Sweden",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "formed joint venture",
+      "target": "ABB Daimler-Benz Transportation (Adtranz)",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Daimler-Benz Transportation (Adtranz)",
+      "relation": "specialized in",
+      "target": "locomotives and railway cars",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Alfa Laval automation unit",
+      "article": "ABB"
+    },
+    {
+      "source": "Alfa Laval automation unit",
+      "relation": "supplied",
+      "target": "process control systems and automation equipment",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Elsag Bailey Process Automation",
+      "article": "ABB"
+    },
+    {
+      "source": "Elsag Bailey Process Automation",
+      "relation": "manufactured",
+      "target": "industrial control systems",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "expanded presence in",
+      "target": "industrial robotics and factory control systems",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "sold stake in",
+      "target": "Adtranz",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB transportation activities",
+      "relation": "shifted toward",
+      "target": "traction motors and electric components",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "formed joint venture with",
+      "target": "Alstom",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Alstom Power",
+      "relation": "focused on",
+      "target": "power generation",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "sold",
+      "target": "nuclear power business",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "sold to",
+      "target": "British Nuclear Fuels",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "divested",
+      "target": "boiler and fossil-fuel operations",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "subsidiary",
+      "target": "Combustion Engineering",
+      "article": "ABB"
+    },
+    {
+      "source": "Combustion Engineering",
+      "relation": "involved in litigation over",
+      "target": "asbestos products",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "reduced reliance on",
+      "target": "power generation and transmission",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "sold",
+      "target": "ABB Vetco Gray",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB Vetco Gray",
+      "relation": "operated in",
+      "target": "upstream oil and gas",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "sold to",
+      "target": "CB&I",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Kuhlman Electric Corporation",
+      "article": "ABB"
+    },
+    {
+      "source": "Kuhlman Electric Corporation",
+      "relation": "manufactures",
+      "target": "transformers",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Baldor Electric",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Thomas & Betts",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Power-One",
+      "article": "ABB"
+    },
+    {
+      "source": "Power-One",
+      "relation": "manufactures",
+      "target": "solar inverters",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Bernecker + Rainer Industrie-Elektronik",
+      "article": "ABB"
+    },
+    {
+      "source": "Bernecker + Rainer Industrie-Elektronik",
+      "relation": "provides",
+      "target": "open-architecture industrial automation software",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "invested in",
+      "target": "ECOtality",
+      "article": "ABB"
+    },
+    {
+      "source": "ECOtality",
+      "relation": "develops",
+      "target": "electric vehicle charging stations",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Epyon B.V.",
+      "article": "ABB"
+    },
+    {
+      "source": "Epyon B.V.",
+      "relation": "manufactures",
+      "target": "EV-charging infrastructure",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "K-TEK",
+      "article": "ABB"
+    },
+    {
+      "source": "K-TEK",
+      "relation": "manufactures",
+      "target": "level measurement instruments",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "became title partner of",
+      "target": "ABB FIA Formula E Championship",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB FIA Formula E Championship",
+      "relation": "is",
+      "target": "fully electric international motorsport series",
+      "article": "ABB"
+    },
+    {
+      "source": "Fastned",
+      "relation": "selected",
+      "target": "ABB",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "supplies",
+      "target": "Terra fast-charging stations",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Tropos",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "sold Power Grids business to",
+      "target": "Hitachi",
+      "article": "ABB"
+    },
+    {
+      "source": "Hitachi",
+      "relation": "rebranded Power Grids division to",
+      "target": "Hitachi Energy",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Cylon Controls Ltd.",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "sold solar inverter business to",
+      "target": "Fimer",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "sold Mechanical Power Transmission business to",
+      "target": "RBC Bearings Inc.",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "spun off turbocharging business as",
+      "target": "Accelleron",
+      "article": "ABB"
+    },
+    {
+      "source": "Accelleron",
+      "relation": "listed on",
+      "target": "SIX Swiss Exchange",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "opened robotics factory in",
+      "target": "Shanghai",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB robotics factory",
+      "relation": "required investment of",
+      "target": "$150 million",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired NEMA motors business from",
+      "target": "Siemens",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Eve Systems",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "partnered with",
+      "target": "Well Done Foundation",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired",
+      "target": "Real Tech",
+      "article": "ABB"
+    },
+    {
+      "source": "Real Tech",
+      "relation": "specializes in",
+      "target": "optical sensor technology for water monitoring",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired AI start-up",
+      "target": "Sevensense",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired R&D engineering firm",
+      "target": "Meshmind",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired wiring accessories business from",
+      "target": "Siemens",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "acquired power electronics business from",
+      "target": "Gamesa Electric",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB",
+      "relation": "agreed to sell industrial robotics business to",
+      "target": "SoftBank Group",
+      "article": "ABB"
+    },
+    {
+      "source": "ABB industrial robotics business",
+      "relation": "valued at",
+      "target": "$5.4 billion",
+      "article": "ABB"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "created by",
+      "target": "Honda",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "is a",
+      "target": "humanoid robot",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Honda E series",
+      "relation": "preceded",
+      "target": "ASIMO",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Honda P series",
+      "relation": "preceded",
+      "target": "ASIMO",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Honda E series",
+      "relation": "developed between",
+      "target": "1986 and 1993",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "developed at",
+      "target": "Honda Wako Fundamental Technical Research Center",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "unveiled in",
+      "target": "October 2000",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "retired in",
+      "target": "2022",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "powered by",
+      "target": "lithium-ion battery",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "previously used",
+      "target": "nickel-metal hydride battery",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "controlled via",
+      "target": "PC, wireless controller, or voice commands",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "uses",
+      "target": "two camera eyes",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "capable of",
+      "target": "recognizing moving objects",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "capable of",
+      "target": "face recognition",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "capable of",
+      "target": "voice command interpretation",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "capable of",
+      "target": "gesture recognition",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "has",
+      "target": "three-dimensional computer processor",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "height",
+      "target": "130 cm",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Honda",
+      "relation": "transitioned technology toward",
+      "target": "avatar-style robotic technology",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "operating time",
+      "target": "one hour",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "equipped with",
+      "target": "autonomous navigation sensors",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO head cameras",
+      "relation": "function as",
+      "target": "visual sensors for obstacle detection",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO lower torso",
+      "relation": "contains",
+      "target": "laser sensor and infrared sensor",
+      "article": "ASIMO"
+    },
+    {
+      "source": "laser sensor",
+      "relation": "used to detect",
+      "target": "ground surface",
+      "article": "ASIMO"
+    },
+    {
+      "source": "infrared sensor",
+      "relation": "used to detect",
+      "target": "floor markings for navigation",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "uses",
+      "target": "pre-loaded map for localization",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "equipped with",
+      "target": "front and rear ultrasonic sensors",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ultrasonic sensors",
+      "relation": "used to sense",
+      "target": "obstacles",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Honda",
+      "relation": "developed",
+      "target": "ASIMO",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Honda ASIMO research",
+      "relation": "led to",
+      "target": "Stride Management Assist prototype",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Honda ASIMO research",
+      "relation": "led to",
+      "target": "Bodyweight Support Assist prototype",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "inducted into",
+      "target": "Carnegie Mellon Robot Hall of Fame",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "inspired",
+      "target": "2012 film Robot & Frank",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "capable of",
+      "target": "recognizing approximately 10 different faces",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "first public US appearance at",
+      "target": "New York Stock Exchange",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "visited",
+      "target": "Science Museum in London",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "participated in",
+      "target": "North American educational tour",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "featured at",
+      "target": "Disneyland Innoventions attraction",
+      "article": "ASIMO"
+    },
+    {
+      "source": "infrared sensor",
+      "relation": "features",
+      "target": "automatic shutter adjustment based on brightness",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Honda",
+      "relation": "developed",
+      "target": "Run with ASIMO mobile app",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "developed by",
+      "target": "Honda",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "permanently installed at",
+      "target": "Innoventions",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Innoventions",
+      "relation": "located in",
+      "target": "Tomorrowland",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "demonstrated capability of",
+      "target": "identifying and avoiding oncoming people",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "demonstrated capability of",
+      "target": "autonomous battery recharging",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "demonstrated at",
+      "target": "Honda Tokyo headquarters",
+      "article": "ASIMO"
+    },
+    {
+      "source": "multiple ASIMO robots",
+      "relation": "demonstrated collaborative operation at",
+      "target": "Honda Tokyo headquarters",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "conducted",
+      "target": "Detroit Symphony Orchestra",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "demonstrated at",
+      "target": "FIRST Championship",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "studied for",
+      "target": "human-robot interaction",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Ars Electronica festival",
+      "relation": "used by Honda to study",
+      "target": "human-robot interaction",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "appeared at",
+      "target": "Miraikan museum",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "greeted",
+      "target": "Prince Charles",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "introduced to",
+      "target": "Barack Obama",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "capable of",
+      "target": "carrying a tray and pushing a cart",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "appeared on",
+      "target": "British quiz show QI",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "revealed at",
+      "target": "Disneyland Autopia attraction",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "demonstrated to",
+      "target": "Canadian students",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "promoted",
+      "target": "STEM education",
+      "article": "ASIMO"
+    },
+    {
+      "source": "ASIMO",
+      "relation": "documented at",
+      "target": "Sundance Film Festival",
+      "article": "ASIMO"
+    },
+    {
+      "source": "Adaptable Robotics",
+      "relation": "is subfield of",
+      "target": "robotics",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Adaptable Robotics",
+      "relation": "uses techniques",
+      "target": "modular design",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Adaptable Robotics",
+      "relation": "uses techniques",
+      "target": "machine learning",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Adaptable Robotics",
+      "relation": "uses techniques",
+      "target": "sensor feedback",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "PUMA robot",
+      "relation": "advanced",
+      "target": "Adaptable Robotics",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "soft robotics",
+      "relation": "advanced",
+      "target": "Adaptable Robotics",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "swarm robotics",
+      "relation": "advanced",
+      "target": "Adaptable Robotics",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "cobots",
+      "relation": "advanced",
+      "target": "Adaptable Robotics",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "bio-inspired approaches",
+      "relation": "advanced",
+      "target": "Adaptable Robotics",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "John Adler",
+      "relation": "invented",
+      "target": "CyberKnife",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "CyberKnife",
+      "relation": "invented in",
+      "target": "1994",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "CyberKnife",
+      "relation": "is a",
+      "target": "robotic surgery system",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "CyberKnife",
+      "relation": "demonstrates",
+      "target": "adaptability",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Canadarm 2",
+      "relation": "launched to",
+      "target": "ISS",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Canadarm 2",
+      "relation": "launched in",
+      "target": "2001",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Canadarm 2",
+      "relation": "uses",
+      "target": "sensor feedback",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Sojourner",
+      "relation": "launched to",
+      "target": "Mars",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Sojourner",
+      "relation": "launched in",
+      "target": "1997",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Sojourner",
+      "relation": "uses",
+      "target": "onboard computer",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "AI",
+      "relation": "enables",
+      "target": "adaptable robotic systems",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "IBM's Deep Blue",
+      "relation": "defeated",
+      "target": "Garry Kasparov",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "IBM's Deep Blue",
+      "relation": "demonstrated capability of",
+      "target": "robotic AI planning and reacting",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "adaptable actuators",
+      "relation": "function in response to",
+      "target": "environmental changes",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "soft robotics",
+      "relation": "enables",
+      "target": "untethered actuation",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Rodney Brooks",
+      "relation": "created",
+      "target": "Ghengis",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Ghengis",
+      "relation": "is a",
+      "target": "hexapedal robot",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "hexapedal robot",
+      "relation": "uses",
+      "target": "six actuators",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "hexapedal robot",
+      "relation": "capable of",
+      "target": "traversing difficult terrain",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "Ghengis",
+      "relation": "influenced",
+      "target": "Rhex",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "soft grippers",
+      "relation": "inspired by",
+      "target": "Venus flytrap",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "liquid crystal polymers",
+      "relation": "enable",
+      "target": "untethered actuation",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "liquid crystal polymers",
+      "relation": "are a category of",
+      "target": "stimuli-responsive materials",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "liquid crystal polymers",
+      "relation": "exhibit",
+      "target": "two way shape memory effect",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "modular robots",
+      "relation": "constructed with",
+      "target": "simple hinge joints",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "modular robots",
+      "relation": "capable of",
+      "target": "morphing into various shapes",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "swarm robotics",
+      "relation": "utilizes",
+      "target": "swarm intelligence",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "swarm robots",
+      "relation": "follow",
+      "target": "algorithms mimicking animal behavior",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "biohybrid robots",
+      "relation": "use",
+      "target": "living tissues or cells",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "muscle cells",
+      "relation": "enable",
+      "target": "biohybrid robot movement",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "swarm robotics",
+      "relation": "combines with",
+      "target": "biohybrid robotics",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "insect-machine hybrid robots",
+      "relation": "also known as",
+      "target": "cyborg insects",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "insect-machine hybrid robots",
+      "relation": "integrates",
+      "target": "artificial control system",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "learning from demonstration",
+      "relation": "is strategy for",
+      "target": "transferring human motion skills to robots",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "learning from demonstration",
+      "relation": "identifies",
+      "target": "movement primitives",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "nonlinear dynamic system",
+      "relation": "encodes trajectories as",
+      "target": "dynamic motion primitive",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "dynamic motion primitive",
+      "relation": "addresses limitations of",
+      "target": "learning from demonstration",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "learning from demonstration",
+      "relation": "advances applicability in",
+      "target": "surgical environments",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "SAR technology",
+      "relation": "uses",
+      "target": "wearable peripherals",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "SAR technology",
+      "relation": "applied in",
+      "target": "medical field",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "SAR technology",
+      "relation": "provides",
+      "target": "personalized monitoring and rehabilitation coaching",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "biohybrid robotics",
+      "relation": "uses",
+      "target": "biodegradable components",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "biohybrid robotics",
+      "relation": "applied in",
+      "target": "human body medical applications",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "AI and machine learning",
+      "relation": "enables",
+      "target": "autonomous navigation",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "AI and machine learning",
+      "relation": "enables",
+      "target": "object recognition and manipulation",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "AI and machine learning",
+      "relation": "enables",
+      "target": "natural language processing",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "AI and machine learning",
+      "relation": "enables development of",
+      "target": "cobots",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "cobots",
+      "relation": "capable of",
+      "target": "working alongside humans",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "AI and machine learning",
+      "relation": "applied in",
+      "target": "industrial quality control",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "intuitive physical HRI",
+      "relation": "enables",
+      "target": "recording surgeon motions to infer intent",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "deep learning",
+      "relation": "enables",
+      "target": "predictive maintenance",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "adaptable robotic systems",
+      "relation": "challenged by",
+      "target": "human uncertainty in force and motion",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "sensory technology",
+      "relation": "required by",
+      "target": "adaptable robotic systems",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "AI models",
+      "relation": "depend on",
+      "target": "peripheral sensory technologies",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "AI algorithms",
+      "relation": "require",
+      "target": "dynamic training environments",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "swarm robots",
+      "relation": "limited by",
+      "target": "interference and collisions",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "swarm robots",
+      "relation": "limited by",
+      "target": "lack of specialization",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "swarm robots",
+      "relation": "limited by",
+      "target": "unpredictable swarm behavioral patterns",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "biohybrid robotics",
+      "relation": "challenged by",
+      "target": "delicate living cells",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "biohybrid robotics",
+      "relation": "benefits from",
+      "target": "biological material adaptability",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "medical robots",
+      "relation": "challenged by",
+      "target": "varying patient needs and characteristics",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "adaptable robotic systems",
+      "relation": "require",
+      "target": "extended adaptation time per patient",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "human factors",
+      "relation": "complicate",
+      "target": "sensory data quantification for robots",
+      "article": "Adaptable robotics"
+    },
+    {
+      "source": "aerobot",
+      "relation": "is type of",
+      "target": "aerial robot",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aerobot",
+      "relation": "used in context of",
+      "target": "unmanned aerial vehicle",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aerobot",
+      "relation": "used in context of",
+      "target": "uncrewed space probe",
+      "article": "Aerobot"
+    },
+    {
+      "source": "robot rovers",
+      "relation": "developed for",
+      "target": "Moon and Solar System exploration",
+      "article": "Aerobot"
+    },
+    {
+      "source": "most aerobot concepts",
+      "relation": "based on",
+      "target": "aerostats",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aerostats",
+      "relation": "primarily include",
+      "target": "balloons",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aerostats",
+      "relation": "occasionally include",
+      "target": "airships",
+      "article": "Aerobot"
+    },
+    {
+      "source": "balloon",
+      "relation": "proposed for",
+      "target": "planetary exploration",
+      "article": "Aerobot"
+    },
+    {
+      "source": "solar Montgolfiere",
+      "relation": "is type of",
+      "target": "hot-air balloon",
+      "article": "Aerobot"
+    },
+    {
+      "source": "solar Montgolfiere",
+      "relation": "traps heat from",
+      "target": "sunlight or planetary surface radiation",
+      "article": "Aerobot"
+    },
+    {
+      "source": "solar Montgolfiere",
+      "relation": "has disadvantage of",
+      "target": "only aloft during daylight hours",
+      "article": "Aerobot"
+    },
+    {
+      "source": "reversible fluid balloon",
+      "relation": "uses",
+      "target": "vaporizable fluid reservoir",
+      "article": "Aerobot"
+    },
+    {
+      "source": "reversible fluid balloon",
+      "relation": "controls altitude by",
+      "target": "vaporizing or condensing fluid",
+      "article": "Aerobot"
+    },
+    {
+      "source": "planetary exploration balloon",
+      "relation": "carries",
+      "target": "instrument payload gondola",
+      "article": "Aerobot"
+    },
+    {
+      "source": "gondola",
+      "relation": "contains",
+      "target": "power, control, and communications subsystems",
+      "article": "Aerobot"
+    },
+    {
+      "source": "communications subsystem",
+      "relation": "relays through",
+      "target": "orbiting planetary probe",
+      "article": "Aerobot"
+    },
+    {
+      "source": "balloon",
+      "relation": "advantage over",
+      "target": "orbiting satellite for terrain detail",
+      "article": "Aerobot"
+    },
+    {
+      "source": "airplanes",
+      "relation": "proposed for",
+      "target": "planetary exploration",
+      "article": "Aerobot"
+    },
+    {
+      "source": "robot rovers",
+      "relation": "limited by",
+      "target": "communications time lag over interplanetary distances",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aerobot",
+      "relation": "alternative to",
+      "target": "robot rovers for planets with atmospheres",
+      "article": "Aerobot"
+    },
+    {
+      "source": "solar Montgolfiere",
+      "relation": "uses",
+      "target": "guide rope",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aerostat",
+      "relation": "is type of",
+      "target": "anchored balloon",
+      "article": "Aerobot"
+    },
+    {
+      "source": "planetary balloon",
+      "relation": "enters atmosphere via",
+      "target": "aeroshell",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aeroshell",
+      "relation": "is shaped as",
+      "target": "flattened cone heat shield",
+      "article": "Aerobot"
+    },
+    {
+      "source": "parachute",
+      "relation": "extracts",
+      "target": "balloon assembly from aeroshell",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aerobot",
+      "relation": "operates",
+      "target": "autonomously",
+      "article": "Aerobot"
+    },
+    {
+      "source": "aerobot",
+      "relation": "performs",
+      "target": "flight control by varying altitude",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Vega balloon mission",
+      "relation": "performed by",
+      "target": "Space Research Institute of Soviet Academy of Sciences",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Vega balloon mission",
+      "relation": "performed in cooperation with",
+      "target": "CNES",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Vega balloons",
+      "relation": "carried on",
+      "target": "Soviet Vega Venus probes",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Soviet Vega Venus probes",
+      "relation": "launched in",
+      "target": "1984",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Jacques Blamont",
+      "relation": "was chief scientist of",
+      "target": "CNES",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Jacques Blamont",
+      "relation": "originated concept of",
+      "target": "Venus Vega balloons",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Jacques Blamont",
+      "relation": "known as",
+      "target": "father of planetary balloon exploration",
+      "article": "Aerobot"
+    },
+    {
+      "source": "G.M. Moskalenko",
+      "relation": "studied",
+      "target": "lighter than air exploration of Venus",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Vega balloon mission",
+      "relation": "demonstrated validity of",
+      "target": "balloons for planetary exploration",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Mars aerobot",
+      "relation": "planned to be carried on",
+      "target": "Soviet space probe",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Mars atmosphere",
+      "relation": "has pressure",
+      "target": "150 times less than Earth",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Mars balloon",
+      "relation": "requires volume of",
+      "target": "5000 to 10000 cubic metres to carry 20 kg payload",
+      "article": "Aerobot"
+    },
+    {
+      "source": "instrumented snake",
+      "relation": "combines functions of",
+      "target": "gondola and guide rope",
+      "article": "Aerobot"
+    },
+    {
+      "source": "JPL",
+      "relation": "is part of",
+      "target": "NASA",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Jim Cutts",
+      "relation": "led team at",
+      "target": "JPL",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Jim Cutts",
+      "relation": "worked on concepts for",
+      "target": "planetary aerobots",
+      "article": "Aerobot"
+    },
+    {
+      "source": "ALICE project",
+      "relation": "focused on",
+      "target": "reversible-fluid balloons",
+      "article": "Aerobot"
+    },
+    {
+      "source": "ALICE 1",
+      "relation": "first flew in",
+      "target": "1993",
+      "article": "Aerobot"
+    },
+    {
+      "source": "BARBE",
+      "relation": "used to test",
+      "target": "instrument payloads",
+      "article": "Aerobot"
+    },
+    {
+      "source": "PAT",
+      "relation": "developed by",
+      "target": "JPL",
+      "article": "Aerobot"
+    },
+    {
+      "source": "PAT",
+      "relation": "intended to demonstrate",
+      "target": "planetary aerobot",
+      "article": "Aerobot"
+    },
+    {
+      "source": "PAT",
+      "relation": "envisioned use of",
+      "target": "reversible-fluid balloon",
+      "article": "Aerobot"
+    },
+    {
+      "source": "PAT",
+      "relation": "cancelled in",
+      "target": "1997",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABVAP",
+      "relation": "successor project to",
+      "target": "PAT",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABVAP",
+      "relation": "aimed at developing",
+      "target": "Mars aerobot",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Mars balloon",
+      "relation": "made of",
+      "target": "aluminized PET film",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Mars balloon",
+      "relation": "filled with",
+      "target": "helium",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Mars balloon",
+      "relation": "dropped from project due to",
+      "target": "Russian financial difficulties",
+      "article": "Aerobot"
+    },
+    {
+      "source": "solar Montgolfiere",
+      "relation": "tested at altitude of",
+      "target": "35 kilometers",
+      "article": "Aerobot"
+    },
+    {
+      "source": "dual balloon system",
+      "relation": "consisted of",
+      "target": "light-gas balloon and solar Montgolfiere",
+      "article": "Aerobot"
+    },
+    {
+      "source": "planetary aerobot",
+      "relation": "requires technology",
+      "target": "autonomous control",
+      "article": "Aerobot"
+    },
+    {
+      "source": "PAT payload",
+      "relation": "included",
+      "target": "navigation and camera systems",
+      "article": "Aerobot"
+    },
+    {
+      "source": "BARBE",
+      "relation": "stands for",
+      "target": "Balloon Assisted Radiation Budget Equipment",
+      "article": "Aerobot"
+    },
+    {
+      "source": "JPL",
+      "relation": "developed",
+      "target": "MABVAP technology experiments",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABVAP technology experiments",
+      "relation": "intended to lead to",
+      "target": "MABTEX",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABTEX",
+      "relation": "is a",
+      "target": "Mars Aerobot Technology Experiment",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABTEX",
+      "relation": "carried by",
+      "target": "microprobe",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABTEX",
+      "relation": "uses",
+      "target": "superpressure balloon",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABTEX",
+      "relation": "carries",
+      "target": "stereo imaging system",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABTEX",
+      "relation": "carries",
+      "target": "spectrometer",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MABTEX",
+      "relation": "carries",
+      "target": "magnetometer",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MGA",
+      "relation": "is follow-on to",
+      "target": "MABTEX",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MGA",
+      "relation": "is a",
+      "target": "Mars Geoscience Aerobot",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MGA",
+      "relation": "carries",
+      "target": "radar sounder",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MGA",
+      "relation": "carries",
+      "target": "infrared spectroscopy system",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MASEPA",
+      "relation": "is a",
+      "target": "Mars Solar Electric Propelled Aerobot",
+      "article": "Aerobot"
+    },
+    {
+      "source": "MASEPA",
+      "relation": "is",
+      "target": "solar-powered blimp",
+      "article": "Aerobot"
+    },
+    {
+      "source": "JPL",
+      "relation": "studied aerobot missions to",
+      "target": "Venus",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VEBTEX",
+      "relation": "is a",
+      "target": "Venus Aerobot Technology Experiment",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VAMS",
+      "relation": "is a",
+      "target": "Venus Aerobot Multisonde",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VAMS",
+      "relation": "deploys",
+      "target": "surface probes",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VAMS",
+      "relation": "operates at altitude above",
+      "target": "50 kilometres above Venus surface",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VAMS",
+      "relation": "suitable for",
+      "target": "NASA Discovery planetary science mission",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Geoscience Aerobot (VGA)",
+      "relation": "uses",
+      "target": "reversible-fluid balloon",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Geoscience Aerobot (VGA)",
+      "relation": "filled with",
+      "target": "helium and water",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VGA balloon envelope",
+      "relation": "fabricated from",
+      "target": "polybenzoxazole",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VGA balloon envelope",
+      "relation": "coated with",
+      "target": "gold coating",
+      "article": "Aerobot"
+    },
+    {
+      "source": "gold coating",
+      "relation": "resists",
+      "target": "sulfuric acid cloud corrosion",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VGA gondola",
+      "relation": "contains",
+      "target": "spherical pressure vessel",
+      "article": "Aerobot"
+    },
+    {
+      "source": "spherical pressure vessel",
+      "relation": "has outer shell of",
+      "target": "titanium",
+      "article": "Aerobot"
+    },
+    {
+      "source": "spherical pressure vessel",
+      "relation": "has inner shell of",
+      "target": "stainless steel",
+      "article": "Aerobot"
+    },
+    {
+      "source": "spherical pressure vessel",
+      "relation": "contains",
+      "target": "solid-state camera",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VGA gondola",
+      "relation": "powered by",
+      "target": "solar panels",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VGA gondola",
+      "relation": "uses heat management via",
+      "target": "heat exchanger ring of pipes",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VGA gondola",
+      "relation": "equipped with",
+      "target": "S-band communications antenna",
+      "article": "Aerobot"
+    },
+    {
+      "source": "VGA gondola",
+      "relation": "equipped with",
+      "target": "radar antenna",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Atmospheric Maneuverable Platform (VAMP)",
+      "relation": "developed by",
+      "target": "Northrop Grumman and LGarde",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Atmospheric Maneuverable Platform (VAMP)",
+      "relation": "explores",
+      "target": "upper atmosphere of Venus",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Venus Atmospheric Maneuverable Platform (VAMP)",
+      "relation": "searches for",
+      "target": "biosignatures",
+      "article": "Aerobot"
+    },
+    {
+      "source": "NASA",
+      "relation": "allocated work for",
+      "target": "robotic balloons for Venus exploration",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Titan Aerobot Multisite mission",
+      "relation": "uses",
+      "target": "argon-filled reversible-fluid balloon",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Titan Biologic Explorer",
+      "relation": "targets",
+      "target": "Titan",
+      "article": "Aerobot"
+    },
+    {
+      "source": "Titan",
+      "relation": "is moon of",
+      "target": "Saturn",
+      "article": "Aerobot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "founded by",
+      "target": "Deng Taihua and Peng Zhihui",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "headquartered in",
+      "target": "Shanghai",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "develops",
+      "target": "humanoid robots",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Deng Taihua and Peng Zhihui",
+      "relation": "formerly employed by",
+      "target": "Huawei",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot A2",
+      "relation": "recognized by",
+      "target": "Guinness World Records",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot A2",
+      "relation": "achieved milestone of",
+      "target": "walking 106.286 kilometers",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Peng Zhihui",
+      "relation": "graduated from",
+      "target": "University of Electronic Science and Technology of China",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Peng Zhihui",
+      "relation": "invented",
+      "target": "Iron Man-inspired robotic arm",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Peng Zhihui",
+      "relation": "invented",
+      "target": "self-driving bicycle",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Peng Zhihui",
+      "relation": "joined Huawei via",
+      "target": "Top Minds programme",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "received investment from",
+      "target": "HongShan, Hillhouse Investment and BYD",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "established",
+      "target": "AIDEA Giga Data Factory",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "began mass production of",
+      "target": "humanoid robots",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "produced",
+      "target": "GO-1 generalist embodied foundation model",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "released",
+      "target": "Lingqu OS",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Lingqu OS",
+      "relation": "is a type of",
+      "target": "embodied intelligent operating system",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "introduced",
+      "target": "Genie Envisioner video generation platform",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "completed",
+      "target": "first industrial deployment with continuous on-site operations",
+      "article": "AgiBot"
+    },
+    {
+      "source": "humanoid robots",
+      "relation": "applied in",
+      "target": "industrial and service applications",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "obtained certification from",
+      "target": "China, United States, and European Union",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Agibot G2",
+      "relation": "integrates",
+      "target": "high-performance actuators",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Agibot G2",
+      "relation": "integrates",
+      "target": "force-controlled arms with full-arm torque sensing",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Agibot G2",
+      "relation": "integrates",
+      "target": "advanced spatial perception",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Agibot G2",
+      "relation": "designed for",
+      "target": "manufacturing, logistics, and guided tour scenarios",
+      "article": "AgiBot"
+    },
+    {
+      "source": "LinkCraft",
+      "relation": "developed by",
+      "target": "AgiBot",
+      "article": "AgiBot"
+    },
+    {
+      "source": "LinkCraft",
+      "relation": "converts",
+      "target": "human motion videos into humanoid robot actions",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot A2 model",
+      "relation": "achieved",
+      "target": "Guinness World Record for walking 100 km from Suzhou to Shanghai",
+      "article": "AgiBot"
+    },
+    {
+      "source": "RAISE A1",
+      "relation": "developed by",
+      "target": "AgiBot",
+      "article": "AgiBot"
+    },
+    {
+      "source": "RAISE A1",
+      "relation": "equipped with",
+      "target": "RGBD camera",
+      "article": "AgiBot"
+    },
+    {
+      "source": "RAISE A1",
+      "relation": "equipped with",
+      "target": "LIDAR sensors",
+      "article": "AgiBot"
+    },
+    {
+      "source": "RAISE A1",
+      "relation": "has",
+      "target": "49 degrees of freedom",
+      "article": "AgiBot"
+    },
+    {
+      "source": "RAISE A1",
+      "relation": "designed for",
+      "target": "industrial applications",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Yuanzheng A2",
+      "relation": "is a",
+      "target": "biped humanoid robot",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Yuanzheng A2",
+      "relation": "powered by",
+      "target": "AI",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Lingxi X1",
+      "relation": "is",
+      "target": "open-source bipedal robot",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Lingxi X1",
+      "relation": "compared with",
+      "target": "Tesla Optimus",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AIDEA",
+      "relation": "is",
+      "target": "embodied AI data system for robot interaction data",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot World",
+      "relation": "compared with",
+      "target": "Google Open X-Embodiment",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "exhibited at",
+      "target": "2024 World Robot Conference",
+      "article": "AgiBot"
+    },
+    {
+      "source": "cleaning robot C5",
+      "relation": "designed for",
+      "target": "sweeping, scrubbing, and dust mopping",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "operates",
+      "target": "data-collection site in Shanghai",
+      "article": "AgiBot"
+    },
+    {
+      "source": "Shanghai authorities",
+      "relation": "supported establishment of",
+      "target": "AgiBot data-collection site",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot data-collection site",
+      "relation": "uses",
+      "target": "tele-operated robots",
+      "article": "AgiBot"
+    },
+    {
+      "source": "tele-operated robots",
+      "relation": "generate",
+      "target": "training data for embodied-AI models",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "operates",
+      "target": "factory in Shanghai",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot factory",
+      "relation": "entered",
+      "target": "mass-production preparation in 2024",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "produces",
+      "target": "A2 robot",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "produces",
+      "target": "G1 robot",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "produces",
+      "target": "OmniHand",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "offers",
+      "target": "VR teleoperation kit",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "related to",
+      "target": "Unitree Robotics",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "related to",
+      "target": "UBtech Robotics",
+      "article": "AgiBot"
+    },
+    {
+      "source": "AgiBot",
+      "relation": "related to",
+      "target": "Fourier",
+      "article": "AgiBot"
+    },
+    {
+      "source": "embodied-AI models",
+      "relation": "trained using",
+      "target": "robot-generated training data",
+      "article": "AgiBot"
+    }
+  ],
+  "traversal": [
+    {
+      "title": "Robotics",
+      "parent": null,
+      "depth": 0
+    },
+    {
+      "title": "1X Technologies",
+      "parent": "Robotics",
+      "depth": 1
+    },
+    {
+      "title": "ABB",
+      "parent": "1X Technologies",
+      "depth": 2
+    },
+    {
+      "title": "ASIMO",
+      "parent": "1X Technologies",
+      "depth": 2
+    },
+    {
+      "title": "Adaptable robotics",
+      "parent": "1X Technologies",
+      "depth": 2
+    },
+    {
+      "title": "Aerobot",
+      "parent": "1X Technologies",
+      "depth": 2
+    },
+    {
+      "title": "AgiBot",
+      "parent": "1X Technologies",
+      "depth": 2
+    }
+  ]
+}

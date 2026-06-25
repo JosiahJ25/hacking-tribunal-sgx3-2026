@@ -1,0 +1,57 @@
+.sidepanel {
+  position: absolute;
+  top: 0;
+  right: -400px;
+
+  width: 350px;
+  height: 100%;
+
+  background: #121212;
+
+  color: white;
+
+  padding: 20px;
+
+  overflow-y: auto;
+
+  border-left: 3px solid #00e5ff;
+
+  transition: right 0.3s ease;
+
+  z-index: 1000;
+}
+
+.sidepanel.open {
+  right: 0;
+}
+
+.close-btn {
+  float: right;
+
+  border: none;
+
+  background: transparent;
+
+  color: white;
+
+  font-size: 28px;
+
+  cursor: pointer;
+}
+
+.sidepanel h2 {
+  color: #00e5ff;
+}
+
+.sidepanel h3 {
+  margin-top: 20px;
+  color: #7c4dff;
+}
+
+.sidepanel ul {
+  padding-left: 20px;
+}
+
+.sidepanel li {
+  margin-bottom: 8px;
+}
