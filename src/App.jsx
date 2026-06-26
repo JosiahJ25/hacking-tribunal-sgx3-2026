@@ -27,8 +27,11 @@ export default function App() {
       >
         <Link to="/">Graph</Link>
         <Link to="/timeline">Timeline</Link>
-        <Link to="/future">Future Concepts</Link>
         <Link to="/future-timeline">Future Timeline</Link>
+        <Link to="/future-concepts" style={{ marginLeft: "20px", color: "white" }}>
+          Future Concepts
+        </Link>
+
 
       </nav>
 
@@ -43,10 +46,7 @@ export default function App() {
           element={<TimelineView />}
         />
 
-        <Route
-          path="/future"
-          element={<FutureConceptsView />}
-        />
+        <Route path="/future-concepts" element={<FutureConceptsView />} />
 
         <Route path="/future-timeline" element={<FutureTimelineView />} />
 

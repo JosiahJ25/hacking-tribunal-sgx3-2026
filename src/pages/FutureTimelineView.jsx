@@ -1,27 +1,38 @@
 import React, { useMemo } from "react";
-import { ELEMENTS } from "../data/elements";
-
+import predictions from "../data/robotics_knowledge_base_with_predictions.json";
 
 export default function FutureTimelineView() {
-  // ⭐ Extract and sort predictions
-  const predictions = useMemo(() => {
-    const nodes = ELEMENTS.filter(el => el.data && el.data.future);
+  // ⭐ Extract predictions from predictions_index
+  const timelineItems = useMemo(() => {
+    const entries = Object.entries(predictions.predictions_index || {});
 
-    const parsed = nodes.map(n => {
-      const f = n.data.future;
-      const timeline = f.timeline || "";
-      const match = timeline.match(/\d{4}/);
-      const startYear = match ? parseInt(match[0]) : 9999;
-
+    // Parse "2028-2034" → { start: 2028, end: 2034 }
+    const parseRange = (rangeStr) => {
+      if (!rangeStr) return { start: 9999, end: 9999 };
+      const parts = rangeStr.split("-");
       return {
-        label: n.data.label,
-        category: n.data.category,
-        ...f,
-        startYear
+        start: parseInt(parts[0]),
+        end: parseInt(parts[1])
       };
-    });
+    };
 
-    return parsed.sort((a, b) => a.startYear - b.startYear);
+    return entries
+      .map(([concept, data]) => {
+        const ft = data.forward_trajectory;
+        if (!ft || !ft.maturation_timeline) return null;
+
+        const range = parseRange(ft.maturation_timeline);
+
+        return {
+          concept,
+          startYear: range.start,
+          endYear: range.end,
+          impact: ft.future_impact,
+          applications: ft.emerging_applications || []
+        };
+      })
+      .filter(Boolean)
+      .sort((a, b) => a.startYear - b.startYear);
   }, []);
 
   return (
@@ -46,7 +57,7 @@ export default function FutureTimelineView() {
           textShadow: "0 0 10px #6A00FF"
         }}
       >
-        Future Robotics Timeline
+        Future Robotics Timeline (2026–2036)
       </h1>
 
       {/* ⭐ Timeline */}
@@ -59,7 +70,7 @@ export default function FutureTimelineView() {
           paddingLeft: "20px"
         }}
       >
-        {predictions.map((p, index) => (
+        {timelineItems.map((item, index) => (
           <div
             key={index}
             style={{
@@ -72,18 +83,26 @@ export default function FutureTimelineView() {
             }}
           >
             <h2 style={{ margin: 0, color: "#9D4DFF" }}>
-              {p.timeline}
+              {item.startYear}–{item.endYear}
             </h2>
 
             <h3 style={{ margin: "5px 0", color: "#00C8FF" }}>
-              {p.label} — {p.concept}
+              {item.concept}
             </h3>
 
-            <p style={{ opacity: 0.9 }}>{p.summary}</p>
+            <p style={{ opacity: 0.9 }}>{item.impact}</p>
 
-            <p style={{ fontSize: "14px", opacity: 0.7 }}>
-              Category: {p.category} • Confidence: {p.confidence}
-            </p>
+            <h4 style={{ marginTop: "10px", color: "#B388FF" }}>
+              Emerging Applications:
+            </h4>
+
+            <ul>
+              {item.applications.map((app, i) => (
+                <li key={i} style={{ opacity: 0.8 }}>
+                  {app}
+                </li>
+              ))}
+            </ul>
           </div>
         ))}
       </div>
