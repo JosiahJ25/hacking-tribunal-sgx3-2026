@@ -1,6 +1,6 @@
 # Hacking Tribunal SGX3
 
-#FutureVision: Predicting the Future through Knowledge Evolution
+#*FutureVision: Predicting the Future through Knowledge Evolution*
 
 > FutureVision is an AI-assisted forecasting platform that deconstructs the architecture of human knowledge by analyzing historical robotics innovation trends to predict future technological breakthroughs.
 >
@@ -96,7 +96,7 @@ Wikipedia API & WikiData
 ## Data Sources
 
 - **Wikipedia API:** Primary source for article text, wikilinks, and categories.
-- **WikiData:** Used for semantic properties like "instance of" and "subclass of".
+- **WikiData:** Used for semantic properties like "instance of" and "subclass of", and information about technology context for predictions.
 - **Internal Wikipedia Links:** Recursive traversal to establish conceptual depth.
 - **AI-generated Predictions:** Explainable insights and narratives grounded in the knowledge graph.
 
