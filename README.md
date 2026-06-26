@@ -1,68 +1,120 @@
 # Hacking Tribunal SGX3
 
-## Local Development
+#FutureVision: Predicting the Future through Knowledge Evolution
 
-```bash
-npm install
-npm run dev
-```
+> FutureVision is an AI-assisted forecasting platform that deconstructs the architecture of human knowledge by analyzing historical robotics innovation trends to predict future technological breakthroughs.
+>
+ ## Team Members
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## Deploying to GitHub Pages
-
-The site is hosted at [https://josiahj25.github.io/hacking-tribunal-sgx3-2026/](https://josiahj25.github.io/hacking-tribunal-sgx3-2026/).
-
-### Automatic (recommended)
-
-Every push to `main` triggers the GitHub Actions workflow at `.github/workflows/deploy.yml`, which builds and publishes the site automatically.
-
-**One-time GitHub setup required:**
-1. Go to the repo → **Settings → Pages**
-2. Under **Source**, select **"GitHub Actions"** (not "Deploy from a branch")
-
-Once configured, pushes to `main` will build and deploy automatically — no `gh-pages` branch needed.
-
-#### What `.github/workflows/deploy.yml` does
-
-The workflow runs on every push to `main` and has two jobs:
-
-**`build`**
-1. Checks out the code
-2. Installs Node 20 and runs `npm ci` to install dependencies
-3. Runs `npm run build` to produce the compiled site in `dist/`
-4. Uploads `dist/` as a Pages artifact
-
-**`deploy`**
-1. Waits for `build` to finish
-2. Publishes the artifact directly to GitHub Pages using the official `actions/deploy-pages` action
-
-Only one deployment can run at a time — if a new push arrives while a deploy is in progress, the in-progress run is cancelled and replaced.
-
-### Manual
-
-```bash
-npm run build
-npm run deploy
-```
-
-This builds the site and pushes the `dist/` folder to the `gh-pages` branch. Only use this if the GitHub Actions source is set to "Deploy from a branch" → `gh-pages`.
+| Member | Role |
+| :--- | :--- |
+| **Nadia Rapheal** (WSSU) | Technical Program Manager & Integration Lead |
+| **Josiah Johnson** (WSSU) | Frontend, Visualization & Presentation Lead |
+| **Madison Conley** (MVSU) | AI Research & Insight Lead |
+| **Usir Jackson** (Claflin) | Data & Knowledge Graph Lead |
+| **Jonathan Wembolua** (WSSU) | Graph Analytics & Prediction Lead |
 
 ---
 
-# React + Vite
+> ## Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **What the project does:** It builds a sophisticated robotics-based knowledge graph from Wikipedia and WikiData to identify historical patterns and detect "convergence hotspots" where different disciplines meet.
+- **The problem it solves:** It addresses the difficulty of predicting upcoming technological developments by using data-driven analytics to uncover innovation pathways hidden in vast amounts of encyclopedic data.
+- **Why it is important:** It makes innovation visible and provides a grounded, scientific basis for understanding the pillars of next-generation breakthroughs.
+- **Overall approach:** The system utilizes a recursive Wikipedia crawler, graph centrality metrics (such as PageRank), and a **Retrieval-Augmented Generation (RAG)** engine to generate and rank evidence-based forecasts for the 2026–2036 timeframe.
 
-Currently, two official plugins are available:
+## Research Question
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> How can historical data and innovation trends in robotics be analyzed to accurately forecast future technological developments in the field?
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- **Recursive Wikipedia Crawler:** Designed to dig to a **3-depth level** of links for high-quality data collection.
+- **Interactive Knowledge Graph Explorer:** A portal where users can filter nodes by sub-field cluster, time period, and convergence score.
+- **RAG Forecasting Engine:** Uses the knowledge graph as a factual corpus to produce grounded predictions rather than pure AI-generated text.
+- **Convergence Detection System:** Identifies "innovation hotspots" by tracking the acceleration of cross-links between different robotics sub-fields.
+- **Temporal Evolution Analysis:** Pulls Wikipedia "first-edit" timestamps to build a birthdate timeline for every concept in the system.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## System Architecture
+
+Wikipedia API & WikiData
+↓
+**Data Extraction** (Token Parser & REBEL Model)
+↓
+**Knowledge Graph** (NetworkX Construction)
+↓
+**Historical Analysis** (Temporal Snapshots & Centrality Metrics)
+↓
+**AI Prediction** (RAG-based Trend Forecasting)
+↓
+**Interactive Visualization** (React & Cytoscape Dashboard)
+
+---
+
+## Technology Stack
+
+### Programming Languages
+- **Python** (Data pipeline, graph analytics, and AI)
+- **JavaScript** (Frontend visualization and dashboard)
+
+### Libraries
+- **NetworkX:** Core library for graph construction and connectivity analysis.
+- **React:** Frontend framework for the interactive user portal.
+- **Cytoscape & Cytoscape-fcose:** Used for high-quality browser-based network visualizations.
+- **Requests & Wikipedia-API:** Facilitating data retrieval from MediaWiki.
+- **JSON:** Serialization format for the knowledge base and concepts.
+
+### AI
+- **Anthropic Claude (Haiku & Sonnet):** Powers the forecasting engine and insight reports.
+- **REBEL Model (Llama 3 base):** Local model used for efficient, end-to-end relation extraction.
+- **GitHub Copilot:** AI assistance for implementation and debugging.
+
+### Platforms
+- **Google Colab:** Primary environment for collaborative model development.
+- **GitHub & GitHub Pages:** Version control and static hosting for the demo.
+- **VS Code:** IDE used for building the visualizer and frontend.
+
+---
+
+## Workflow
+
+1.  **Select Seed Articles:** Identify 5-10 foundational robotics articles on Wikipedia.
+2.  **Recursive Crawl:** Pull text, links, and semantic properties (e.g., "part of") to depth level 3.
+3.  **Concept-Relation Extraction:** Feed text through the token parser and REBEL model to produce JSON tuples.
+4.  **Build Graph:** Construct a directed graph in **NetworkX**, weighting edges based on relationship types.
+5.  **Temporal Tracking:** Record the "birthdate" of each node via Wikipedia API history.
+6.  **Detect Convergence:** Segment the graph into sub-field clusters and flag accelerated cross-linking.
+7.  **Generate Forecasts:** Prompt the AI with subgraphs of convergence hotspots to produce a **Future Trend Report**.
+8.  **Visualize:** Deploy an interactive dashboard showing the evolution and predicted breakthroughs.
+
+---
+
+## Data Sources
+
+- **Wikipedia API:** Primary source for article text, wikilinks, and categories.
+- **WikiData:** Used for semantic properties like "instance of" and "subclass of".
+- **Internal Wikipedia Links:** Recursive traversal to establish conceptual depth.
+- **AI-generated Predictions:** Explainable insights and narratives grounded in the knowledge graph.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
