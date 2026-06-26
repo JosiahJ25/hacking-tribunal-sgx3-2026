@@ -23,6 +23,22 @@ Every push to `main` triggers the GitHub Actions workflow at `.github/workflows/
 
 Once configured, pushes to `main` will build and deploy automatically — no `gh-pages` branch needed.
 
+#### What `.github/workflows/deploy.yml` does
+
+The workflow runs on every push to `main` and has two jobs:
+
+**`build`**
+1. Checks out the code
+2. Installs Node 20 and runs `npm ci` to install dependencies
+3. Runs `npm run build` to produce the compiled site in `dist/`
+4. Uploads `dist/` as a Pages artifact
+
+**`deploy`**
+1. Waits for `build` to finish
+2. Publishes the artifact directly to GitHub Pages using the official `actions/deploy-pages` action
+
+Only one deployment can run at a time — if a new push arrives while a deploy is in progress, the in-progress run is cancelled and replaced.
+
 ### Manual
 
 ```bash
