@@ -1,9 +1,4 @@
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Link
-} from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 
 import GraphView from "./GraphView";
 import TimelineView from "./TimelineView";
