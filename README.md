@@ -1,3 +1,36 @@
+# Hacking Tribunal SGX3
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## Deploying to GitHub Pages
+
+The site is hosted at [https://josiahj25.github.io/hacking-tribunal-sgx3-2026/](https://josiahj25.github.io/hacking-tribunal-sgx3-2026/).
+
+### Automatic (recommended)
+
+Every push to `main` triggers the GitHub Actions workflow at `.github/workflows/deploy.yml`, which builds and publishes the site automatically.
+
+Make sure GitHub Pages is configured to deploy from the `gh-pages` branch:
+**Settings → Pages → Source → Deploy from branch → `gh-pages`**
+
+### Manual
+
+```bash
+npm run build
+npm run deploy
+```
+
+This builds the site and pushes the `dist/` folder to the `gh-pages` branch.
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
