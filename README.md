@@ -17,8 +17,11 @@ The site is hosted at [https://josiahj25.github.io/hacking-tribunal-sgx3-2026/](
 
 Every push to `main` triggers the GitHub Actions workflow at `.github/workflows/deploy.yml`, which builds and publishes the site automatically.
 
-Make sure GitHub Pages is configured to deploy from the `gh-pages` branch:
-**Settings → Pages → Source → Deploy from branch → `gh-pages`**
+**One-time GitHub setup required:**
+1. Go to the repo → **Settings → Pages**
+2. Under **Source**, select **"GitHub Actions"** (not "Deploy from a branch")
+
+Once configured, pushes to `main` will build and deploy automatically — no `gh-pages` branch needed.
 
 ### Manual
 
@@ -27,7 +30,7 @@ npm run build
 npm run deploy
 ```
 
-This builds the site and pushes the `dist/` folder to the `gh-pages` branch.
+This builds the site and pushes the `dist/` folder to the `gh-pages` branch. Only use this if the GitHub Actions source is set to "Deploy from a branch" → `gh-pages`.
 
 ---
 
