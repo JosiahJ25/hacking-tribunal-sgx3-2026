@@ -1,28 +1,34 @@
-import React, { useMemo } from "react";
-import predictions from "../data/robotics_knowledge_base_with_predictions.json";
+import React, { useEffect, useState } from "react";
 
 export default function FutureConceptsView() {
-  // ⭐ Extract and sort concepts alphabetically
-  const concepts = useMemo(() => {
-    const entries = Object.entries(predictions.predictions_index || {});
+  const [concepts, setConcepts] = useState([]);
 
-    return entries
-      .map(([concept, data]) => {
-        const ft = data.forward_trajectory;
-        const pred = data.predecessors;
-        const back = data.backward_analysis;
+  useEffect(() => {
+    fetch("/hacking-tribunal-sgx3-2026/robotics_knowledge_base_with_predictions.json")
+      .then(res => res.json())
+      .then(predictions => {
+        const entries = Object.entries(predictions.predictions_index || {});
 
-        return {
-          concept,
-          maturation: ft?.maturation_timeline || "Unknown",
-          impact: ft?.future_impact || "No impact description available.",
-          applications: ft?.emerging_applications || [],
-          convergence: ft?.convergence_with || [],
-          criticality: back?.criticality_level || "unknown",
-          origin: pred?.timeline_origin || "Unknown"
-        };
-      })
-      .sort((a, b) => a.concept.localeCompare(b.concept));
+        const list = entries
+          .map(([concept, data]) => {
+            const ft = data.forward_trajectory;
+            const pred = data.predecessors;
+            const back = data.backward_analysis;
+
+            return {
+              concept,
+              maturation: ft?.maturation_timeline || "Unknown",
+              impact: ft?.future_impact || "No impact description available.",
+              applications: ft?.emerging_applications || [],
+              convergence: ft?.convergence_with || [],
+              criticality: back?.criticality_level || "unknown",
+              origin: pred?.timeline_origin || "Unknown"
+            };
+          })
+          .sort((a, b) => a.concept.localeCompare(b.concept));
+
+        setConcepts(list);
+      });
   }, []);
 
   return (
@@ -38,7 +44,6 @@ export default function FutureConceptsView() {
         alignItems: "center"
       }}
     >
-      {/* ⭐ Page Title */}
       <h1
         style={{
           fontSize: "32px",
@@ -51,12 +56,9 @@ export default function FutureConceptsView() {
       </h1>
 
       <p style={{ maxWidth: "800px", opacity: 0.8, textAlign: "center" }}>
-        Explore predicted robotics concepts for 2026–2036.  
-        Each concept includes emerging applications, convergence technologies,  
-        future impact, and estimated maturation timelines.
+        Explore predicted robotics concepts for 2026–2036.
       </p>
 
-      {/* ⭐ Concepts Grid */}
       <div
         style={{
           marginTop: "40px",

@@ -1,38 +1,43 @@
-import React, { useMemo } from "react";
-import predictions from "../data/robotics_knowledge_base_with_predictions.json";
+import React, { useEffect, useState } from "react";
 
 export default function FutureTimelineView() {
-  // ⭐ Extract predictions from predictions_index
-  const timelineItems = useMemo(() => {
-    const entries = Object.entries(predictions.predictions_index || {});
+  const [timelineItems, setTimelineItems] = useState([]);
 
-    // Parse "2028-2034" → { start: 2028, end: 2034 }
-    const parseRange = (rangeStr) => {
-      if (!rangeStr) return { start: 9999, end: 9999 };
-      const parts = rangeStr.split("-");
-      return {
-        start: parseInt(parts[0]),
-        end: parseInt(parts[1])
-      };
-    };
+  useEffect(() => {
+    fetch("/hacking-tribunal-sgx3-2026/robotics_knowledge_base_with_predictions.json")
+      .then(res => res.json())
+      .then(predictions => {
+        const entries = Object.entries(predictions.predictions_index || {});
 
-    return entries
-      .map(([concept, data]) => {
-        const ft = data.forward_trajectory;
-        if (!ft || !ft.maturation_timeline) return null;
-
-        const range = parseRange(ft.maturation_timeline);
-
-        return {
-          concept,
-          startYear: range.start,
-          endYear: range.end,
-          impact: ft.future_impact,
-          applications: ft.emerging_applications || []
+        const parseRange = (rangeStr) => {
+          if (!rangeStr) return { start: 9999, end: 9999 };
+          const parts = rangeStr.split("-");
+          return {
+            start: parseInt(parts[0]),
+            end: parseInt(parts[1])
+          };
         };
-      })
-      .filter(Boolean)
-      .sort((a, b) => a.startYear - b.startYear);
+
+        const items = entries
+          .map(([concept, data]) => {
+            const ft = data.forward_trajectory;
+            if (!ft || !ft.maturation_timeline) return null;
+
+            const range = parseRange(ft.maturation_timeline);
+
+            return {
+              concept,
+              startYear: range.start,
+              endYear: range.end,
+              impact: ft.future_impact,
+              applications: ft.emerging_applications || []
+            };
+          })
+          .filter(Boolean)
+          .sort((a, b) => a.startYear - b.startYear);
+
+        setTimelineItems(items);
+      });
   }, []);
 
   return (
@@ -48,7 +53,6 @@ export default function FutureTimelineView() {
         alignItems: "center"
       }}
     >
-      {/* ⭐ Page Title */}
       <h1
         style={{
           fontSize: "32px",
@@ -60,7 +64,6 @@ export default function FutureTimelineView() {
         Future Robotics Timeline (2026–2036)
       </h1>
 
-      {/* ⭐ Timeline */}
       <div
         style={{
           marginTop: "40px",
